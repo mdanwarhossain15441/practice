@@ -54,3 +54,23 @@ console.log (typeof result);
 // var result = applePrice + tormujPrice;
 
 // console.log(result.toFixed(1));
+
+/**
+var num1 = parseInt(15.14);
+var num2 = 35;
+
+num1 +=10;
+num2 -=40;
+
+var result = num1 + num2 ;
+
+console.log(result);
+ */
+
+if (5>10){
+    console.log(true);
+}else{
+    console.log(false);
+}
+
+if (10)
